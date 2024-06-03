@@ -18,6 +18,18 @@ Este proyecto es el front-end de un blog de café, diseñado como un espacio aco
 
 ## Auditoría con Lighthouse
 Se utilizó Lighthouse para auditar el sitio, proporcionando insights valiosos sobre el rendimiento, la accesibilidad, las mejores prácticas y la optimización para SEO. Esto ayuda a mejorar continuamente la calidad del sitio web.
+<p align="center">
+  <img src="https://github.com/stalin246/HTML-CSS-BlogCafe/assets/77359338/da9e0ed9-3ede-45f8-b02e-131cb1d8ddc5" alt="Informe Lighthouse - Celulares" width="80%">
+  <br>
+  <em>Informe Lighthouse - Celulares</em>
+</p>
+
+<p align="center">
+  <img src="https://github.com/stalin246/HTML-CSS-BlogCafe/assets/77359338/c8567696-46c1-4da2-8f3b-cafe7f8ef887" alt="Informe Lighthouse - Escritorio" width="80%">
+  <br>
+  <em>Informe Lighthouse - Escritorio</em>
+</p>
+
 
 ## Cómo Contribuir
 Para contribuir a este proyecto, por favor sigue los siguientes pasos:
