@@ -30,15 +30,3 @@ Se utilizó Lighthouse para auditar el sitio, proporcionando insights valiosos s
   <em>Informe Lighthouse - Escritorio</em>
 </p>
 
-
-## Cómo Contribuir
-Para contribuir a este proyecto, por favor sigue los siguientes pasos:
-1. **Fork el repositorio:** Haz una bifurcación del proyecto en tu cuenta de GitHub.
-2. **Clona tu fork:** Descarga tu fork a tu computadora local.
-3. **Crea una rama:** Basa tus cambios en una rama específica destinada a desarrollar la característica o corrección.
-4. **Haz tus cambios:** Implementa tus mejoras o correcciones.
-5. **Envía un Pull Request (PR):** Envía un PR desde tu rama a este repositorio para revisión.
-
-## Licencia
-Este proyecto está licenciado bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
-
